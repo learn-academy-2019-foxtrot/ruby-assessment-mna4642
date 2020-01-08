@@ -6,6 +6,8 @@ Answer the following questions. First, without external resources. Challenge you
 1. In what ways are JavaScript and Ruby similar? In what ways are they different?
 
   Your answer:
+They both have a function, loop, argument statement, 
+
 
   Researched answer:
 
